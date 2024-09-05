@@ -25,7 +25,6 @@ class ContadorDePalabras
     to_s
   end
 end
-
 contador = ContadorDePalabras.new("")
 bandera = true
 while bandera == true
@@ -43,3 +42,4 @@ while bandera == true
   end
   puts contador.imprimir
 end
+
