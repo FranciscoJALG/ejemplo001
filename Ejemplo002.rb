@@ -17,3 +17,4 @@ end
     puts manipulator.reverseString("Hola Mundo")
     puts manipulator.capitalizeString("hola mundo")
     puts manipulator.countVowels("Hola Mundo")
+    put "Hola"
